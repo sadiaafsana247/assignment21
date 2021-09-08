@@ -1,0 +1,23 @@
+img{
+    max-width: 100%;
+}
+.carousel-caption{
+    margin-bottom: 240px;
+}
+/* contact css */
+.contact{
+    background: #f8f9fa;
+    padding: 60px 0;
+}
+.about{
+    padding: 70px 0;
+}
+.choose{
+   margin-left: 0;    
+}
+.blog{
+    background: #f8f9fa;
+}
+.text{
+    height: 130px;
+}
